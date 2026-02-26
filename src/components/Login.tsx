@@ -55,7 +55,7 @@ export default function Login({ onLogin }: LoginProps) {
           <div className="w-16 h-16 bg-white rounded-full flex items-center justify-center mx-auto mb-4">
             <Building2 className="text-blue-600" size={32} />
           </div>
-          <h1 className="text-2xl font-bold text-white mb-2">Sistema de Admissão</h1>
+          <h1 className="text-2xl font-bold text-white mb-2">Sistema de Admissão Digital</h1>
           <p className="text-blue-100 text-sm">Acesso Digital No-Code</p>
         </div>
 
